@@ -1,4 +1,4 @@
-# Dillinger
+# DPRKMEDIA.com (North Korea's site for agitation. Spilled source code)
 
 This Source gained by hacking the mother fucking dprkmedia.com as known as KPM (North Korea's motherless family) 
 Their original source was written in .NET Framework. 
