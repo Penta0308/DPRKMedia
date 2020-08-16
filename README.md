@@ -9,7 +9,7 @@ You can find many fun comments over the entire source code.
 ### Fun Comments
 
 #### Source
-```csharp
+```PHP
 class MY_Controller extends CI_Controller {
 	
 	...
