@@ -6,6 +6,10 @@ They say the United States is one of the most vicious countries, but they built 
 
 You can find many fun comments over the entire source code.
 
+## Server Registry
+
+[Server's Registry](https://github.com/hansolgeun/KPMServerRegistry)
+
 ### Fun Comments
 
 #### Source
